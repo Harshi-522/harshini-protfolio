@@ -13,8 +13,8 @@ body {ew#1
 }
 
 .profile-img {
-    width: 140px;
-    height: 140px;          /* same as width = perfect circle */
+    width: 100px;
+    height: 100px;          /* same as width = perfect circle */
     border-radius: 50%;     /* circle shape */
     object-fit: cover;      /* image fits neatly */
     border: 4px solid navy;
@@ -97,6 +97,7 @@ body {ew#1
 .B.Tech (CSE) {
     font-style: italic;
 }
+
 
 
 
