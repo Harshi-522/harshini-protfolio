@@ -1,0 +1,87 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color:#8ddee1;
+    color: #333;
+}
+
+.header {
+    text-align: center;
+    background: #2bafb4;
+    color: black;
+    padding: 30px;
+}
+
+.profile-img {
+    width: 150px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+.buttons a {
+    text-decoration: none;
+    color: white;
+    background: #3498db;
+    padding: 10px 15px;
+    margin: 5px;
+    border-radius: 5px;
+    display: inline-block;
+}
+
+.section {
+    padding: 30px;
+    max-width: 900px;
+    margin: auto;
+}
+
+.card {
+    background: #9dc9e5;
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 5px;
+}
+
+.skills {
+    list-style: none;
+    padding: 0;
+}
+
+.skills li {
+    display: inline-block;
+    background: #3498db;
+    color: rgb(46, 7, 201);
+    padding: 5px 10px;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.contact-form input,
+.contact-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+.contact-form button {
+    background: #2c3e50;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
+/* Navy Blue Text Styling */
+.section h2 {
+    color: navy;
+}
+
+.section p,
+.section li {
+    color: #0a1a33;   /* soft navy blue */
+}
+
+.card h3 {
+    color: navy;
+}
+.B.Tech (CSE) {
+    font-style: italic;
+}
